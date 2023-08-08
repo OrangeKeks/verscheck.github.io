@@ -1,2 +1,0 @@
-# versionChecking
-vers check
